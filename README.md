@@ -1,0 +1,1 @@
+# lazy_git_zsh_alias
